@@ -31,8 +31,6 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-```python
-```
 ![Screenshot 2024-04-16 233931](https://github.com/23004027/EXNO-3-DS/assets/138956447/f1180b33-10c2-4ebf-8cad-516a2120cf0b)
 ![Screenshot 2024-04-16 233952](https://github.com/23004027/EXNO-3-DS/assets/138956447/945159b6-2041-4b41-b602-60156b75de98)
 ![Screenshot 2024-04-16 234008](https://github.com/23004027/EXNO-3-DS/assets/138956447/93608e22-a16a-4aa8-bbd3-ed6e5182314d)
@@ -59,6 +57,6 @@ We use this categorical data encoding technique when the features are nominal(do
 ![Screenshot 2024-04-16 234551](https://github.com/23004027/EXNO-3-DS/assets/138956447/ad45e0ee-e6ac-4bbb-a427-fbe26e0c473c)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
 
        
